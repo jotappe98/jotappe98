@@ -1,7 +1,7 @@
 ##
 Oi! Eu sou o João 👋
 
-- Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.
+  Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.
   Tenho desenvolvido projetos práticos em Python, com foco em backend e APIs, incluindo integrações com MySQL para persistência de dados.
   Também possuo experiência em projetos utilizando HTML e CSS, aplicando conceitos de estrutura, semântica e estilização para interfaces simples e funcionais.
   
@@ -27,5 +27,5 @@ Oi! Eu sou o João 👋
 <div> 
  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-andrade-973358277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/10jotape/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:jopedro172@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:jpedro.dev@outlook.com"><img src="![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)"></a>
 </div>
