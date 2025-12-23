@@ -1,9 +1,13 @@
 ##
 Oi! Eu sou o João 👋
 
-- 🔎 Buscando a primeira oportunidade no mercado de tecnologia
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Atualmente estudando front-end
+- Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia.
+  Tenho desenvolvido projetos práticos em Python, com foco em backend e APIs, incluindo integrações com MySQL para persistência de dados.
+  Também possuo experiência em projetos utilizando HTML e CSS, aplicando conceitos de estrutura, semântica e estilização para interfaces simples e funcionais.
+  
+- 🔎 Buscando a primeira oportunidade no mercado da TI
+- 👨‍🎓 ADS
+- 📍  Rio Grande do Sul
 
 
   
