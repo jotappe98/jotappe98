@@ -49,7 +49,7 @@ Oi! Eu sou o João 👋
         align="left" 
         alt="GitHub stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotappe98&theme=tokyonight&layout=compact%custom_title=Tecnologias&langs_count"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotappe98&theme=tokyonight&layout=compact%custom_title=Tecnologias&langs_count=4"
        />
    </p>
 </div>
